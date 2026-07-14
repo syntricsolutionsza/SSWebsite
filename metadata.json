@@ -1,0 +1,6 @@
+{
+  "name": "Syntrics",
+  "description": "Syntrics is a professional digital agency specializing in premium Android Apps and Websites, founded in 2024 by Wandile Soji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
